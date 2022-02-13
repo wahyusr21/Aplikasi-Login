@@ -5,4 +5,4 @@ Ini coba-coba dari course nya Dicoding
 Adapun alur login yaitu :
 1. Memasukkan email dan password
 2. Memvalidasi masukan.
-3. Menampilkan halaman beranda.
+3. Menampilkan halaman home.
